@@ -20,6 +20,3 @@ Este repositório contém o desenvolvimento de uma blockchain escrita em **Go (G
 
 ---
 
-
-
-![Uploading Imagem do WhatsApp de 2025-07-07 à(s) 00.16.39_f6aa678a.jpg…]()
